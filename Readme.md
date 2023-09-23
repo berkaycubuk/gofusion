@@ -2,7 +2,7 @@
 
 GoFusion is a simple approach to build web services. Right now, it's just a glue between gin and gorm.
 
-> Disclaimer: This project is under development and should not be used in production environments, so use it with causion!
+> Disclaimer: This project is under development and should not be used in production environments, so use it with caution!
 
 ## How to use it?
 
