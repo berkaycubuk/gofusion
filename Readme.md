@@ -37,3 +37,15 @@ reactor.Scheduler.Every(10).Minutes().Do(func() {
     fmt.Println("Hello!")
 })
 ```
+
+## Validation
+
+GoFusion comes with form validation. 
+
+### URI Parameter Validation
+
+`ValidateURIParam(paramName string)` middleware will validate uri parameter.
+
+## Utils
+
+- `RandomString(length int)`: Generate random string with given lenght.
